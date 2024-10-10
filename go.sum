@@ -26,6 +26,10 @@ github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZb
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/stretchr/testify v1.9.0 h1:HtqpIVDClZ4nwg75+f6Lvsy/wHu+3BoSGCbBAcpTsTg=
 github.com/stretchr/testify v1.9.0/go.mod h1:r2ic/lqez/lEtzL7wO/rwa5dbSLXVDPFyf8C91i36aY=
+github.com/wchang18/gotool v0.0.0-20240926140132-01d62aff0a9b h1:mrKiwGCLXFfDevcSymy1uTvwiRkIeF40h8N6rG57Ki0=
+github.com/wchang18/gotool v0.0.0-20240926140132-01d62aff0a9b/go.mod h1:CZ1PRvJtGd5VxJ7qQYzMZbcMTath0q0h3WsvzTJfISM=
+github.com/wchang18/gotool v1.0.1 h1:l+Eqfzh04jOcaYeEq2dxd9QLz2dZCzNpdt58167x/4A=
+github.com/wchang18/gotool v1.0.1/go.mod h1:CZ1PRvJtGd5VxJ7qQYzMZbcMTath0q0h3WsvzTJfISM=
 github.com/yuin/gopher-lua v1.1.1 h1:kYKnWBjvbNP4XLT3+bPEwAXJx262OhaHDWDVOPjL46M=
 github.com/yuin/gopher-lua v1.1.1/go.mod h1:GBR0iDaNXjAgGg9zfCvksxSRnQx76gclCIb7kdAd1Pw=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=

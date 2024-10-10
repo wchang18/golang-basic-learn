@@ -1,0 +1,5 @@
+mode: count
+go-basic-learn/test/learn_test/demo.go:3.21,4.11 1 2
+go-basic-learn/test/learn_test/demo.go:4.11,6.3 1 1
+go-basic-learn/test/learn_test/demo.go:7.2,7.10 1 1
+go-basic-learn/test/learn_test/demo.go:10.24,12.2 1 1
